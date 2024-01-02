@@ -1,13 +1,12 @@
 <?php
 	
-	/**
-	 * ChatBot - Configurações Token 
-	 * @author Fabio Castilhos <fabio.castilhos.net.br> 
-	 * @copyright GPL © 2020-2023, HappyHouse. 
+	/**	 
+	 * @author Fabio Castilhos <fabcastilhos@gmail.com> 
+	 * @copyright GNU © 2020-2023, HappyHouse. 
 	 * @access protected (public, protected e private) 
 	 * @name config.php 
-	 * @package Workplace_PoC
-	 * @subpackage PHP/FAQBot
+	 * @package Workplace
+	 * @subpackage Workplace/Webhooks/FAQ/
 	 * @version 1.0	 
 	*/
 	
