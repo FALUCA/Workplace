@@ -5,9 +5,9 @@
 	 * @author Fabio Castilhos <fabio.castilhos.net.br> 
 	 * @copyright GNU © 2020-2023, HappyHouse. 
 	 * @access protected (public, protected e private) 
-	 * @name config.php 
-	 * @package Workplace_PoC
-	 * @subpackage PHP/ReconhecimentoBot
+	 * @name accessToken.php 
+	 * @package Workplace
+	 * @subpackage Workplace/Provision
 	 * @version 1.0	 
 	*/
 	
