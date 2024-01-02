@@ -1,8 +1,7 @@
 <?php
 	
 	/**
-	 * Provisionar Usuário - Configurações Token 
-	 * @author Fabio Castilhos <fabio.castilhos.net.br> 
+	 * @author Fabio Castilhos <fabcastilhos@gmail.com> 
 	 * @copyright GNU © 2020-2023, HappyHouse. 
 	 * @access protected (public, protected e private) 
 	 * @name config.php 
